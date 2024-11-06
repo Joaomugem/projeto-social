@@ -47,12 +47,11 @@ section#telefone {
 }
 
 iframe#tela {
-
  position: relative;
  top: 80px;
- left: 22px;
-width: 269px;
-height: 471px;
+ left: 23px;
+ width: 266px;
+ height: 471px;
 }
 
 section#redes-sociais{
@@ -76,7 +75,7 @@ section#redes-sociais img:hover {
 border: 2px solid rgb(0, 0, 0, 0.637 ) ;
 transform: translate(-3px,-3px ) ;
 box-shadow: 5px 5px 10px  rgb(0, 0, 0, 0.623 ) ;
-transition:transforw .3s, border 2s ;
+transition:transform, .3s, border 2s ;
 }
 
 
